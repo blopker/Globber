@@ -7,7 +7,7 @@ Usage
 
 	./Globber.py glob string
 
-Example
+Example:
 
 	./Globber.py "bo*awesome" "bo is awesome"
 	True
