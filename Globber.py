@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-
 import sys
+
 
 def _matchStar(glob, s):
     if len(glob) == 1:
